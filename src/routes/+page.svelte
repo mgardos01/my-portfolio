@@ -1,2 +1,13 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<svelte:head>  
+    <title>Max Gardos Portfolio</title>
+</svelte:head>
+  
+<div id="container">
+<div id="title">
+    <img src="../lib/githubpfp.png" alt="Github PFP." height="250px">
+</div>
+<div id="links">
+    <a href="https://github.com/mgardos01">Github</a>
+    <a href="https://www.linkedin.com/in/max-gardos-8a1bb21a1/">LinkedIn</a>
+</div>
+</div>
