@@ -1,13 +1,14 @@
-<svelte:head>
-    <title>Max Gardos Portfolio</title>
-</svelte:head>
+
+<script> 
+    import github_pfp from '$lib/assets/githubpfp.png'
+</script>
 
 <body>
     <main>
         <div id="container">
             <div id="title">
                 <img
-                    src="../lib/githubpfp.png"
+                    src={github_pfp}
                     alt="Github PFP."
                     height="250px"
                 />
