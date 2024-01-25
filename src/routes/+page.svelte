@@ -1,6 +1,6 @@
 
 <script> 
-    import github_pfp from '$lib/assets/githubpfp.png'
+    import github_pfp from '$lib/assets/githubpfp.jfif'
 </script>
 
 <body>
